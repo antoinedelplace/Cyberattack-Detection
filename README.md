@@ -33,4 +33,4 @@ The aim of the project is to find a mechanism that can detect cyber attacks by a
 The experiments show that Random Forest can detect more than 95% of botnets for 8 out of 13 scenarios. Moreover, the accuracy on the 5 most difficult scenarios can be increased thanks to a bootstrap method. For more details, see the report.
 
 ## References
-1. _Project report_ (available soon)
+1. A. Delplace, S. Hermoso and K. Anandita. "Cyber Attack Detection thanks to Machine Learning Algorithms", _Advanced Security Report at the University of Queensland_, May 2019. [arXiv:2001.06309](https://arxiv.org/abs/2001.06309)
